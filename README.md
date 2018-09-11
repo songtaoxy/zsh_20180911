@@ -1,3 +1,3 @@
 # zsh_config
 
-.zsh 配置
+.zshrc 配置文件备份
